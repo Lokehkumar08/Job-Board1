@@ -1,0 +1,11 @@
+server/
+|-- controllers/
+|   |-- jobController.js
+|   |-- userController.js
+|-- models/
+|   |-- Job.js
+|   |-- User.js
+|-- routes/
+|   |-- jobRoutes.js
+|   |-- userRoutes.js
+|-- index.js
